@@ -195,3 +195,5 @@ This repository lists some awesome public projects about C++20, C++23, C++26 and
     - [2024-05-17，Conan：C/C++语言的依赖项和包管理器](https://mp.weixin.qq.com/s/pCcOZsiO03GLTscLLtMkHA)
   - 微信公众号「码尘」
     - [2024-04-19，C++20 Coroutine 实战](https://mp.weixin.qq.com/s/1vR-jfgunUfSw-MgWEnckg)
+  - 微信公众号「编程宇航员」
+    - [2024-11-27，C++高性能编程：如何快速释放 vector 占用内存？](https://mp.weixin.qq.com/s/Kk9p3Sy34aB_8FaCPEh4Vw)
